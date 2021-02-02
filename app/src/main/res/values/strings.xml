@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleUserInfo</string>
+    <string name="on">Var</string>
+    <string name="of">Yok</string>
+    <string name="ad">Ad:</string>
+    <string name="soyad">Soyad:</string>
+    <string name="ad_hint">Adınız</string>
+    <string name="soyad_hint">Soyadınız</string>
+    <string name="evli">Evli</string>
+    <string name="bekar">Bekar</string>
+    <string name="hobi">Hobileriniz var mı ?</string>
+    <string name="spor">Spor</string>
+    <string name="dans">Dans</string>
+    <string name="müzik">Müzik</string>
+    <string name="sinema">Sinema</string>
+    <string name="yazdır">Yazdır</string>
+</resources>
